@@ -1,0 +1,89 @@
+<!--
+  ~ Copyright (c) 2015-present, Parse, LLC.
+  ~ All rights reserved.
+  ~
+  ~ This source code is licensed under the BSD-style license found in the
+  ~ LICENSE file in the root directory of this source tree. An additional grant
+  ~ of patent rights can be found in the PATENTS file in the same directory.
+  -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/MainRL"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bgx"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/AdminLoginButton"
+        android:layout_width="337dp"
+        android:layout_height="60dp"
+        android:layout_below="@+id/customerLogInButton"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginStart="24dp"
+        android:layout_marginLeft="24dp"
+        android:layout_marginTop="163dp"
+        android:layout_marginEnd="34dp"
+        android:layout_marginRight="34dp"
+        android:background="#4527A0"
+        android:onClick="adminButtonClick"
+        android:text="ADMIN-LOGIN"
+        android:textColor="#FFFFFF"
+        android:textSize="30sp" />
+
+    <Button
+        android:id="@+id/customerSignINButton"
+        android:layout_width="344dp"
+        android:layout_height="67dp"
+        android:layout_below="@+id/customerLogInButton"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="22dp"
+        android:layout_marginLeft="22dp"
+        android:layout_marginTop="45dp"
+        android:layout_marginEnd="29dp"
+        android:background="#896CF1"
+        android:onClick="CusSignInClick"
+        android:text="NEW  SIGN  UP"
+        android:textColor="#FFFFFF"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/TitleTV"
+        android:layout_width="360dp"
+        android:layout_height="83dp"
+        android:background="#ABF3F4CF"
+        android:paddingTop="5dp"
+        android:text="      RECYCLER"
+        android:textAllCaps="true"
+        android:textColor="#27EA47"
+        android:textSize="50sp"
+        android:textStyle="bold|italic" />
+
+    <Button
+        android:id="@+id/customerLogInButton"
+        android:layout_width="341dp"
+        android:layout_height="65dp"
+        android:layout_below="@+id/TitleTV"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="24dp"
+        android:layout_marginLeft="24dp"
+        android:layout_marginTop="82dp"
+        android:layout_marginEnd="30dp"
+        android:background="#A4E3F3"
+        android:onClick="CusLoginClick"
+        android:text="Customer - Login "
+        android:textColor="#FFFFFF"
+        android:textSize="30sp" />
+</RelativeLayout>

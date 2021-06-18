@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "C:\\Users\\HI\\Desktop\\Recycler\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable_recycler.jpg.flat",
+        "source": "C:\\Users\\HI\\Desktop\\Recycler\\ParseStarterProject\\src\\main\\res\\drawable\\recycler.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HI\\Desktop\\Recycler\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable_bgx.jpg.flat",
+        "source": "C:\\Users\\HI\\Desktop\\Recycler\\ParseStarterProject\\src\\main\\res\\drawable\\bgx.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HI\\Desktop\\Recycler\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\HI\\Desktop\\Recycler\\ParseStarterProject\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HI\\Desktop\\Recycler\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_activity_verify.xml.flat",
+        "source": "C:\\Users\\HI\\Desktop\\Recycler\\ParseStarterProject\\src\\main\\res\\layout\\activity_verify.xml"
+    },
+    {
+        "merged": "C:\\Users\\HI\\Desktop\\Recycler\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\HI\\Desktop\\Recycler\\ParseStarterProject\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HI\\Desktop\\Recycler\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\HI\\Desktop\\Recycler\\ParseStarterProject\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HI\\Desktop\\Recycler\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_activity_admin_login.xml.flat",
+        "source": "C:\\Users\\HI\\Desktop\\Recycler\\ParseStarterProject\\src\\main\\res\\layout\\activity_admin_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\HI\\Desktop\\Recycler\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable_bg.webp.flat",
+        "source": "C:\\Users\\HI\\Desktop\\Recycler\\ParseStarterProject\\src\\main\\res\\drawable\\bg.webp"
+    },
+    {
+        "merged": "C:\\Users\\HI\\Desktop\\Recycler\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\HI\\Desktop\\Recycler\\ParseStarterProject\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HI\\Desktop\\Recycler\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_activity_customer_log_in.xml.flat",
+        "source": "C:\\Users\\HI\\Desktop\\Recycler\\ParseStarterProject\\src\\main\\res\\layout\\activity_customer_log_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\HI\\Desktop\\Recycler\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_activity_customer_list.xml.flat",
+        "source": "C:\\Users\\HI\\Desktop\\Recycler\\ParseStarterProject\\src\\main\\res\\layout\\activity_customer_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\HI\\Desktop\\Recycler\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_activity_customer_submit.xml.flat",
+        "source": "C:\\Users\\HI\\Desktop\\Recycler\\ParseStarterProject\\src\\main\\res\\layout\\activity_customer_submit.xml"
+    },
+    {
+        "merged": "C:\\Users\\HI\\Desktop\\Recycler\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_activity_customer_sign_up.xml.flat",
+        "source": "C:\\Users\\HI\\Desktop\\Recycler\\ParseStarterProject\\src\\main\\res\\layout\\activity_customer_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\HI\\Desktop\\Recycler\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\HI\\Desktop\\Recycler\\ParseStarterProject\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

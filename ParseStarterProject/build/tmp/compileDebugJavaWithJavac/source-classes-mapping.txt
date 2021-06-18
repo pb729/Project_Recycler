@@ -1,0 +1,26 @@
+com/parse/starter/AdminLogin.java
+ com.parse.starter.AdminLogin
+com/parse/starter/StarterApplication.java
+ com.parse.starter.StarterApplication
+com/parse/starter/MainActivity.java
+ com.parse.starter.MainActivity
+ com.parse.starter.MainActivity$1
+ com.parse.starter.MainActivity$2
+com/parse/starter/CustomerLogIn.java
+ com.parse.starter.CustomerLogIn
+ com.parse.starter.CustomerLogIn$1
+com/parse/starter/VerifyActivity.java
+ com.parse.starter.VerifyActivity
+ com.parse.starter.VerifyActivity$1
+com/parse/starter/CustomerSubmit.java
+ com.parse.starter.CustomerSubmit
+ com.parse.starter.CustomerSubmit$1
+com/parse/starter/CustomerList.java
+ com.parse.starter.CustomerList
+ com.parse.starter.CustomerList$1
+ com.parse.starter.CustomerList$2
+com/parse/starter/CustomerSignUp.java
+ com.parse.starter.CustomerSignUp
+ com.parse.starter.CustomerSignUp$1
+com/parse/starter/BuildConfig.java
+ com.parse.starter.BuildConfig
